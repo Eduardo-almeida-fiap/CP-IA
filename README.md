@@ -37,3 +37,5 @@ O notebook está organizado da seguinte forma:
 3. **Analisando a geração de tokens**: Investigando o processo de geração de texto token a token, incluindo a obtenção de pontuações de cada token.
 4. **Dispositivo e memória**: A importância de manter a consistência de dispositivos entre dados e modelos (CPU vs GPU) para evitar erros.
 
+#OBS: todos os códigos devem ser rodados no google colab
+
