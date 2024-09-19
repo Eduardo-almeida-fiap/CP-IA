@@ -6,7 +6,7 @@
 
 - Defesa cibernetica - 2024
 
-## grupo:Athens
+## Grupo:Athens
 
 - Eduardo Dos Santos Almeida
 - Júlia Barboza Brunelli
